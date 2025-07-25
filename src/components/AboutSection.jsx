@@ -2,7 +2,7 @@ import { Briefcase, Code, User } from "lucide-react";
 
 export const AboutSection = () => {
   return (
-    <section id="about" className="py-24 px-4 relative">
+    <section id="about" className="py-10 px-4 relative">
       {" "}
       <div className="container mx-auto max-w-5xl">
         <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
@@ -16,7 +16,7 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              3.5 years working experience in web development using JS
+              3.10 years working experience in web development using JS
               Frameworks. Working experience in React JS. Nodejs (Express
               framework). Strong Knowledge for working with Bootstrap, CSS, JS
               and jQuery. A dynamic team player with good written and verbal
